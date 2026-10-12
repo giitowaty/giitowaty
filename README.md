@@ -23,10 +23,6 @@
 
 ### 📌 Selected projects
 
-- **[osint-platform](https://github.com/giitowaty/osint-platform)** — OSINT intelligence platform
-- **[SZWEJ_WYSZUKIWARKA](https://github.com/giitowaty/SZWEJ_WYSZUKIWARKA)** — search tool
-- Plus private work on wardriving tooling and drone projects 🔒
-
 ### 📊 GitHub stats
 
 <p>
