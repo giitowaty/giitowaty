@@ -9,7 +9,6 @@
 ### 🧠 About me
 
 - 🔭 Building tools around **OSINT**, reconnaissance and security research
-- 🛰️ Tinkering with **drones** and wireless (wardriving) projects
 - 📚 Studying programming — turning coursework into real projects
 - 🐧 Daily driver: **Kali Linux**
 
